@@ -49,18 +49,6 @@
 
 ---
 
-### 📊 GitHub Contributions
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=gmpatel152&show_icons=true&theme=tokyonight" height="150"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gmpatel152&theme=tokyonight" height="150"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gmpatel152&theme=tokyo-night" />
-</p>
-
----
-
 ### 🚀 Highlights
 - 🔧 Built scalable **MERN stack applications**
 - 📊 Worked on **Data Analytics & ML models**
